@@ -1,0 +1,12 @@
+# IDE metadata
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build artifacts & logs
+*.log
